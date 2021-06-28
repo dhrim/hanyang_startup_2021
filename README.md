@@ -29,20 +29,3 @@
 - 포즈 추출 : [pose_extraction_using_open_pose.ipynb](material/deep_learning/pose_extraction_using_open_pose.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hanyang_startup_2021/blob/master/material/deep_learning/pose_extraction_using_open_pose.ipynb)
 
 
-<br>
-
-기타 자료
-- [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
-- GCP에 VM 생성하고 Colab 연결하기 : [create_GCP_VM.pdf](material/deep_learning/create_GCP_VM.pdf)
-- 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
-- 딥러닝 이상탐지 : [deep_learning_anomaly_detection.pptx](material/deep_learning/deep_learning_anomaly_detection.pptx)
-- GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
-- 이상탐지 동영상 : [drillai_anomaly_detect.mp4](material/deep_learning/drillai_anomaly_detect.mp4)
-- 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
-- online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
-- GradCAM : [grad_cam.ipynb](material/deep_learning/grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hanyang_startup_2021/blob/master/material/deep_learning/grad_cam.ipynb)
-- AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hanyang_startup_2021/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
-- 서버 설치 기록 : [2019-10-17_setup_server.pdf](material/env/2019-10-17_setup_server.pdf)
-- GCP에 VM 생성하고 Colab 연결 : [GCP_VM_and_Colab.pdf](material/env/GCP_VM_and_Colab.pdf)
-- TensorFlow 홈 tutorial에서 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
-
